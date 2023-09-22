@@ -7,3 +7,4 @@ Whether you're planning a trip, checking the weather for your daily activities, 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 to see the working of the app please click on the link and visit it : 
+https://codeyash1999.github.io/Weather-App-JS/
